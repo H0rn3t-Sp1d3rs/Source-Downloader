@@ -22,5 +22,4 @@
 <hr>
 <h3 align="left">Contact with me:</h3>
 <p align="left">
-<a href="https://www.facebook.com/H0rn3t.Sp1d3rs"><img title="Facebook" src="https://img.shields.io/badge/Facebook-red?style=for-the-badge&logo=facebook"></a>
-<a href="https://www.facebook.com/call.me.H0rn3t.Sp1d3rs"><img title="Messenger" src="https://img.shields.io/badge/Messenger-red?style=for-the-badge&logo=messenger"></a>
+<a href="https://t.me/h0rn3t_07"><img title="Telegram" src="https://img.shields.io/badge/Facebook-red?style=for-the-badge&logo=Telegram"></a>
