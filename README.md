@@ -22,4 +22,4 @@
 <hr>
 <h3 align="left">Contact with me:</h3>
 <p align="left">
-<a href="https://t.me/h0rn3t_07"><img title="Telegram" src="https://img.shields.io/badge/Facebook-red?style=for-the-badge&logo=Telegram"></a>
+<a href="https://t.me/h0rn3t_07"><img title="Telegram" src="https://img.shields.io/badge/Telegram-red?style=for-the-badge&logo=Telegram"></a>
